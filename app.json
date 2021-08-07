@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Rn First App",
-    "slug": "rn-first-app",
+    "name": "React Native Mini Projects",
+    "slug": "rn-mini-projects",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
