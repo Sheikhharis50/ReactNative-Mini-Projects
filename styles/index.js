@@ -11,6 +11,8 @@ const styles = StyleSheet.create({
     marginTop: 8,
     backgroundColor: "aliceblue",
     flexDirection: "row",
+    borderColor: "skyblue",
+    borderWidth: 1,
   },
   flexBox: {
     justifyContent: "center",
